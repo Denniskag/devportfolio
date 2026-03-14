@@ -43,6 +43,20 @@ export const siteConfig = {
       link: "https://github.com/Denniskag/Image-Classification/blob/main/Mini_Project.ipynb",
       skills: ["Computer vision", "Machine learning", "Streamlit"],
     },
+    {
+      name: "Gender Based Violence (GBV) Dashboard",
+      description:
+        "Designed a dashboard analyzing the sociodemographic drivers of violence against women across Africa, Asia, and South America to identify where justifications remain most prevalent. .",
+      link: "https://drive.google.com/file/d/1tGg2MDbNy1WpBRizXVCiVD1HBizdQ8cD/view?usp=sharing",
+      skills: ["Power Bi"],
+    },
+    {
+      name: "Interpretable Machine Learning for Premium Subscription Classification Using LIME",
+      description:
+        "A machine learning classification project to predict premium subscription purchases using Decision Tree,Random Forest, and XGBoost. Model predictions were explained using LIME to improve interpretability.",
+      link: "https://colab.research.google.com/drive/1zqkk7MF0PJ3st6hHYbaAFV6ts9jB3wyH?usp=sharing",
+      skills: ["Machine Learning", "Explainable AI"],
+    },
   
   ],
   experience: [
